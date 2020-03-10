@@ -24,7 +24,7 @@ Assign a list of variables temperatures. the list should contain three items, a 
 ```
 Assign a list to variable "computer". The list should contain four items, a float, an integer, a string, and a list.
 ```
-### Q7. Calculate Maximum.
+### Q7. Calculate Maximum
 ```
 Complete the script so that it prints out the maximum value of "student_grades". In other words, your duty is to find out the
 appropriate functionor method that returns the maximum value of a list ans store its output in max_value.
@@ -41,7 +41,7 @@ student_grades = [9.1, 8.8, 10.0, 7.7, 6.8, 8.0, 10.0, 8.1, 10.0, 9.9]
 ```
 ### Q9. Modify string
 ```
-find the proper function or method that converts the sring in username into lowercase letters and prints out the output.
+find the proper function or method that converts the string in username into lowercase letters and prints out the output.
 =>
 username = "Helloworld5"
 ```
