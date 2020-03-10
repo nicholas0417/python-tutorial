@@ -1,10 +1,10 @@
 # First Assignment for beginner
 
-### Q1. First python exercise (exercise1.py)
+### Q1. First python exercise
 ```
 Assign a value to x in the first line, and print out the variable value in the second.
 ```
-### Q2. Assign multiple values and print it (exercise2.py)
+### Q2. Assign multiple values and print it
 ```
 Assign some vlaues to variables x, y, and z.Then, insert x, y, and z inside a print() function to print out the value of those variables.
 ```
@@ -24,7 +24,7 @@ Assign a list of variables temperatures. the list should contain three items, a 
 ```
 Assign a list to variable "computer". The list should contain four items, a float, an integer, a string, and a list.
 ```
-### Q7. Calculate Maximum
+### Q7. Calculate Maximum.
 ```
 Complete the script so that it prints out the maximum value of "student_grades". In other words, your duty is to find out the
 appropriate functionor method that returns the maximum value of a list ans store its output in max_value.
