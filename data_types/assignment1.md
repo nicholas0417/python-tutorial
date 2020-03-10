@@ -6,7 +6,7 @@ Assign a value to x in the first line, and print out the variable value in the s
 ```
 ### Q2. Assign multiple values and print it
 ```
-Assign some vlaues to variables x, y, and z.Then, insert x, y, and z inside a print() function to print out the value of those variables.
+Assign some values to variables x, y, and z.Then, insert x, y, and z inside a print() function to print out the value of those variables.
 ```
 ### Q3. Create intergers, strings and floats
 ```
