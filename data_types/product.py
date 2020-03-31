@@ -1,8 +1,9 @@
 # Q1
-x = int (input("please enter a munber:"))
-y = int (input("please enter a munber:"))
-product = x*y
-if (product <= 1000):
-        print(product)
+num1 = int (input("please enter number1:"))
+num2 = int (input("please enter number2:"))
+product = num1 * num2
+# If product is greater than 1000
+if (product < 1000):
+        print("The product is : " product)
 else:
-        print(x+y)
+        print(num1 + num2)
